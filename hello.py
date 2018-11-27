@@ -1,0 +1,7 @@
+print("Dear world,")
+print("")
+print("Hello")
+print("")
+print("Sincerely, Lulu")
+print("")
+print("PS, I'm learning Git")
