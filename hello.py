@@ -1,0 +1,2 @@
+print ("Dear world,")
+print ("")
